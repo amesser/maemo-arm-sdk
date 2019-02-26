@@ -68,6 +68,7 @@ load() {
 		"beagleboneblack" "$R/boards/beaglebone-black.sh"
 		"chromeacer"      "$R/boards/chromebook-acer.sh"
 		"chromeveyron"    "$R/boards/chromebook-veyron.sh"
+		"librem5_devkit"  "$R/boards/librem5-devkit.sh"		
 		"n900"            "$R/boards/nokia-n900.sh"
 		"n950"            "$R/boards/nokia-n950.sh"
 		"n9"              "$R/boards/nokia-n9.sh"
